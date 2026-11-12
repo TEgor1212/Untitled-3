@@ -1,0 +1,82 @@
+=== Bash CLI Practical: 2026-11-12T14:11:31+03:00 ===
+Working dir: /home/prinz/git/Untitled-3/practical-work/bash-cli
+
+## 1. Simple blog structure
+blog
+blog/css
+blog/images
+blog/js
+blog/pages
+blog/posts
+
+## 2. Two-level shop structure
+shop
+shop/orders
+shop/products
+shop/products/clothing
+shop/products/electronics
+shop/users
+shop/users/profiles
+
+## 3. Web project with files
+webapp
+webapp/css
+webapp/css/style.css
+webapp/images
+webapp/images/icons
+webapp/images/icons/favicon.ico
+webapp/images/logo.png
+webapp/index.html
+webapp/js
+webapp/js/script.js
+webapp/pages
+webapp/pages/about.html
+
+## 4. Framework project with templates and configs
+framework
+framework/.github
+framework/.github/workflows
+framework/.github/workflows/test.yml
+framework/docs
+framework/src
+framework/src/core
+framework/src/core/config
+framework/src/core/config/settings.json
+framework/src/core/helpers
+framework/src/core/helpers/utils.js
+framework/src/modules
+framework/src/modules/api
+framework/src/modules/api/router.js
+framework/src/modules/auth
+framework/src/modules/auth/login.js
+framework/tests
+framework/tests/integration
+framework/tests/unit
+
+## 5. Generate structure by description (project-x)
+project-x
+project-x/.env
+project-x/Dockerfile
+project-x/docker-compose.yml
+project-x/src
+project-x/src/app
+project-x/src/app/controllers
+project-x/src/app/controllers/product.js
+project-x/src/app/controllers/user.js
+project-x/src/app/models
+project-x/src/app/models/db.js
+project-x/src/lib
+project-x/src/lib/config
+project-x/src/lib/config/settings.js
+project-x/src/lib/helpers
+project-x/src/lib/helpers/logger.js
+project-x/tests
+project-x/tests/e2e
+project-x/tests/e2e/flow.test.js
+project-x/tests/unit
+project-x/tests/unit/app.test.js
+
+## Tree (fallback to find if tree missing)
+tree not installed
+
+=== DONE ===
