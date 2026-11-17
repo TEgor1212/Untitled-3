@@ -1,8 +1,0 @@
-=== scriptSyncRep Practical: 2026-11-12T14:14:15+03:00 ===
-total 12
--rw-r--r-- 1 prinz prinz 1740 Nov 12 14:14 README.md
--rw-r--r-- 1 prinz prinz 1376 Nov 12 14:14 sync-repos.ps1
--rwxr-xr-x 1 prinz prinz 1348 Nov 12 14:14 sync-repos.sh
-Bash syntax check:
-sync-repos.sh: OK
-=== DONE ===

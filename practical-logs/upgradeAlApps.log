@@ -1,7 +1,0 @@
-=== upgradeAlApps Practical: 2026-11-12T14:14:15+03:00 ===
-total 12
--rw-r--r-- 1 prinz prinz 972 Nov 12 14:14 README.md
--rw-r--r-- 1 prinz prinz 147 Nov 12 14:14 upgrade-all.ps1
--rwxr-xr-x 1 prinz prinz 328 Nov 12 14:14 upgrade-all.sh
-upgrade-all.sh: OK
-=== DONE ===
